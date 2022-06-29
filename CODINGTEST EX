@@ -1,0 +1,7 @@
+echo "# code_storage" >> README.md 
+git init 
+git add README.md 
+git commit -m "첫 번째 커밋" 
+git branch -M main 
+git remote add origin https://github.com/Isabel-Ly/code_storage.git
+ git 푸시 -u 원점 메인
